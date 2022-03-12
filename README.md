@@ -49,13 +49,13 @@ yeaaaah it's like that :white_check_mark:
 ![](https://i.imgur.com/twdfVjD.png)
 
         
-        * <strong style="color:green">Conculsion :100: 
+## <strong style="color:blue">Conculsion :100:  </strong>
 * <strong style="color: dark ; opacity: 0.80">This work allowed us to know how Android Studio works, and how XML and Java files communicate, how we can add components, and of course the way we want to customize our components in our application.
 
-* <strong style="color: dark ; opacity: 0.80">Finally I want say thank you to the one and only, My professor Mrs BOUIHI Bouchra *Doctor Assistant in UH2* for his supporting  and encouraging to us, also for giving us this opportunity to improve our skills in mobile development.
+    * <strong style="color: dark ; opacity: 0.80">Finally I want say thank you to the one and only, My professor Mrs BOUIHI Bouchra *Doctor Assistant in UH2* for his supporting  and encouraging to us, also for giving us this opportunity to improve our skills in mobile development.
 
 *see also about* Mrs [BOUIHI](https://www.linkedin.com/in/bouchra-bouihi-a18110101/)
 </strong>
-
+___
 > Created by :[name=ELMAJNI KHAOULA]
 [time=sun,2022,03,12][color=#EF0101]
