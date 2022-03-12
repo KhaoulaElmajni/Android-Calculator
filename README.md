@@ -4,7 +4,7 @@
 * <strong style="color:dark">this is an
 application that allows us to practice the event management with a graphical interface a bit complex. It is therefore proposed to you to carry out a calculator, with a simple graphical interface.
 
-* <strong style="color:dark">The general organization requested is this project is : 
+* <strong style="color:dark">The general organization requested in this project is : 
 1.     LinearLayout
 1.     2 TextViews at the top of the screen 
         input
